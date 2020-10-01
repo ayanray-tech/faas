@@ -59,9 +59,10 @@ as RESTful web services following factory and strategy design patterns.
 }`
 
 
-## Steps to replicate:
+## Deployment steps:
 
-```git clone https://github.com/ayanray-tech/faas.git
+```
+git clone https://github.com/ayanray-tech/faas.git
 cd faas
 python3 -m venv venv
 source venv/bin/activate
