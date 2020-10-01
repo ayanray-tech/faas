@@ -78,3 +78,11 @@ python app.py
 
 ## API URL:
 http://localhost:8888/api/
+
+
+## Contact for details:
+
+
+```
+https://www.linkedin.com/in/ayan-ray-90331466/
+```
