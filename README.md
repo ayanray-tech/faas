@@ -42,7 +42,16 @@ as RESTful web services following factory and strategy design patterns.
 }
 ```
 
+### Below are the code to be used for different algorithms :
 
+```
+LR : Logistic Regression
+KNN : K Nearest Neighbor
+LDA : Linear Discriminant Analysis
+CART : Decision Tree Classifier
+NB : Gaussian Naive Bayes
+SVM : Simple Vector Machine
+```
 ### Each endpoint when successfully executed returns the following output:
 
 
