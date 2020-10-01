@@ -42,7 +42,7 @@ as RESTful web services following factory and strategy design patterns.
 }
 ```
 
-### Below are the code to be used for different algorithms :
+### Below are the codes to be used for different algorithms :
 
 ```
 LR : Logistic Regression
